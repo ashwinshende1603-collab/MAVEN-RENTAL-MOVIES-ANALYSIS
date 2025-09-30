@@ -38,3 +38,13 @@ Inventory → copies of each movie available (status: AVAILABLE / RENTED / DAMAG
 Rentals → rental transactions (rental/return dates, linked to members & employees).
 
 Transactions → payment records for rentals.
+
+## 📊 Use Cases
+
+SQL Training Project (Joins, Group By, Aggregations, CASE statements)
+
+Business Analysis (revenue, top movies, customer loyalty)
+
+Portfolio Demo (complex queries & insights for GitHub)
+
+Data Science Prep (export queries into Python/R for visualization)
