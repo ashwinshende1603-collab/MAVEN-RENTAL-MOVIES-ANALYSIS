@@ -108,13 +108,16 @@ This repository answers key **business and analytical questions** using SQL, suc
 
 <img width="507" height="447" alt="image" src="https://github.com/user-attachments/assets/6e5df03e-7a62-4931-a201-2c989706cad4" />
 
+
   - Identify the most spending Customers so that we can send him/her rewards or debate points
 
 <img width="460" height="106" alt="Screenshot 2025-10-01 001929" src="https://github.com/user-attachments/assets/c3f37364-9e84-45a9-a73f-a6aae522afd8" />
 
+
   - Find customers with fewer than 15 rentals (churn risk)
 
 <img width="282" height="162" alt="image" src="https://github.com/user-attachments/assets/1a57cee2-77f8-4de1-8c1a-95950690c69c" />
+
 
 
 - **Movie Analysis**  
@@ -122,31 +125,38 @@ This repository answers key **business and analytical questions** using SQL, suc
 
 <img width="245" height="132" alt="image" src="https://github.com/user-attachments/assets/11eac323-d23c-4da1-86fb-e3de8544e7f4" />
 
+
   - Ratings distribution (G, PG, R, etc.)
 
 <img width="248" height="200" alt="image" src="https://github.com/user-attachments/assets/a52fc31a-aef9-496a-90e2-857133ec1617" />
 
+
   - Movies with “Behind the Scenes” special features
 
 <img width="537" height="441" alt="image" src="https://github.com/user-attachments/assets/f663c0e9-73e2-402d-9c97-c243b09055ba" />
+
 
   - Categorize movies by length (short, medium, long)
 
 <img width="446" height="443" alt="image" src="https://github.com/user-attachments/assets/361634f5-845b-4b22-ba21-101c55fa7fe0" />
 
 
+
+
 - **Rental & Revenue Insights**  
   - Most rented movies (popularity analysis)
  
 <img width="327" height="292" alt="image" src="https://github.com/user-attachments/assets/6cadab0a-bece-41f2-af0d-179fe0bcfb75" />
+
   
   - Top 10 grossing films by revenue
 
  <img width="337" height="277" alt="image" src="https://github.com/user-attachments/assets/feee6832-61e9-41a4-9da4-06f2b44f6f7a" />
+ 
 
   - Monthly and yearly rental trends
 
-<img width="247" height="126" alt="image" src="https://github.com/user-attachments/assets/7cb7a076-17b5-4644-965d-a2e989f4f423" />    <img width="350" height="200" alt="image" src="https://github.com/user-attachments/assets/12d3c27d-216f-4018-ac81-6eb9e1a0764d" />
+ <img width="350" height="200" alt="image" src="https://github.com/user-attachments/assets/12d3c27d-216f-4018-ac81-6eb9e1a0764d" />   <img width="247" height="126" alt="image" src="https://github.com/user-attachments/assets/7cb7a076-17b5-4644-965d-a2e989f4f423" />   
 
 
   - Correlation between rental duration, length, and pricing  
