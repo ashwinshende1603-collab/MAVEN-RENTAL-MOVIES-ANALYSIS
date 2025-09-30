@@ -171,13 +171,29 @@ This repository answers key **business and analytical questions** using SQL, suc
 <img width="263" height="123" alt="image" src="https://github.com/user-attachments/assets/e2286087-98eb-4543-83bf-47e30a7a242a" />
 
 
-  - Branch inventory availability
+
+  - Active vs inactive customers by store
+
+<img width="523" height="422" alt="image" src="https://github.com/user-attachments/assets/692c9853-c7ca-471b-8cf9-1f07e18b57df" />
 
 
-  - Active vs inactive customers by store  
+
   - Employee and advisor listings  
 
+<img width="373" height="227" alt="image" src="https://github.com/user-attachments/assets/a0a66c40-d9f2-4ac2-b275-cc2c4e2ec239" />
+
+
+
+
 - **Actor & Film Relationships**  
-  - Number of movies per performer  
-  - Actor–film associations (which actors appear in which titles)  
-  - Number of actors per movie title  
+  - Number of movies per performer
+
+<img width="510" height="440" alt="image" src="https://github.com/user-attachments/assets/9859c421-3f7f-41ec-a226-7af18519576a" />
+
+  - Actor–film associations (which actors appear in which titles)
+
+<img width="437" height="422" alt="image" src="https://github.com/user-attachments/assets/104ecc29-7280-422a-97fd-d345dc7803ec" />
+
+  - Number of actors per movie title
+
+<img width="372" height="397" alt="image" src="https://github.com/user-attachments/assets/24d00945-8859-409a-9b73-fb4852d8049b" />
