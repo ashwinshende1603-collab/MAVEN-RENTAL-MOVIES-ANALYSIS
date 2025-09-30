@@ -1,46 +1,41 @@
 # MAVEN-RENTAL-MOVIES-ANALYSIS
-🎬 Maven Movies Rental Database
-📌 Overview
 
-This project contains the Maven Movies Rental Database, a relational database inspired by the classic Sakila dataset. It models a movie rental business with entities such as movies, customers, rentals, payments, staff, and stores.
+🎬 MAVEN MOVIES RENTAL DATABASE
 
-The database is ideal for practicing:
+📌 OVERVIEW
 
-SQL queries (JOINs, GROUP BY, subqueries)
+Cinehub is a modernized relational database designed to model a movie rental & streaming platform.
+It extends the classic rental database concept with new features like reviews, subscriptions, promotions, and watchlists, making it a richer, real-world dataset.
 
-Database design & normalization
+This project is ideal for practicing:
 
-Analytical reporting (top customers, revenue analysis, inventory tracking)
+SQL (DDL & DML queries)
 
-Stored procedures, triggers, and views
+Advanced joins & aggregations
 
-🗂️ Dataset Structure
+Business intelligence reporting
+
+Stored procedures & functions
+
+Database design for real-world applications
+
+🗂️ DATABASE STRUCTURE
 Core Tables
 
-film → information about movies (title, description, release year, rating, rental rates).
+movies → details of films (title, description, release year, rating, rental rates, genre).
 
-actor → performer details (first and last name).
+performers → information about actors/actresses.
 
-film_actor → many-to-many relationship between films and actors.
+movie_performer → links performers with movies (and their roles).
 
-customer → customers who rent movies.
+members → registered customers (with contact info, phone, DOB).
 
-store → rental store branches.
+branches → rental store branches.
 
-staff → employees working at each store.
+employees → staff working at branches.
 
-inventory → copies of each film available for rent.
+inventory → copies of each movie available (status: AVAILABLE / RENTED / DAMAGED).
 
-rental → rental transactions (date, return date, customer, inventory).
+rentals → rental transactions (rental/return dates, linked to members & employees).
 
-payment → payments linked to rentals.
-
-Additional Entities
-
-category → movie categories (Action, Drama, Comedy, etc.).
-
-film_category → links films to categories.
-
-language → available movie languages.
-
-address, city, country → geographic hierarchy for customers & stores.
+transactions → payment records for rentals.
