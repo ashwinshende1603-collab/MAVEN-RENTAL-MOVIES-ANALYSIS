@@ -9,35 +9,35 @@
 
  ### The focus is on :
   
-   Exploratory Data Analysis (EDA) of the schema
+   - Exploratory Data Analysis (EDA) of the schema
   
-   Ad-hoc business queries for insights
+   - Ad-hoc business queries for insights
   
-   Revenue, rentals, customers, and inventory management reports
+   - Revenue, rentals, customers, and inventory management reports
   
-   It’s designed as a portfolio project to demonstrate SQL querying, database understanding, and problem-solving skills.
+   - It’s designed as a portfolio project to demonstrate SQL querying, database understanding, and problem-solving skills.
 
 ## 🗂️ Database Structure
 
 ### Core Tables
 
-Movies → details of films (title, description, release year, rating, rental rates, genre).
+- Movies → details of films (title, description, release year, rating, rental rates, genre).
 
-Performers → information about actors/actresses.
+- Performers → information about actors/actresses.
 
-Movie_performer → links performers with movies (and their roles).
+- Movie_performer → links performers with movies (and their roles).
 
-Members → registered customers (with contact info, phone, DOB).
+- Members → registered customers (with contact info, phone, DOB).
 
-Branches → rental store branches.
+- Branches → rental store branches.
 
-Employees → staff working at branches.
+- Employees → staff working at branches.
 
-Inventory → copies of each movie available (status: AVAILABLE / RENTED / DAMAGED).
+- Inventory → copies of each movie available (status: AVAILABLE / RENTED / DAMAGED).
 
-Rentals → rental transactions (rental/return dates, linked to members & employees).
+- Rentals → rental transactions (rental/return dates, linked to members & employees).
 
-Transactions → payment records for rentals.
+- Transactions → payment records for rentals.
 
 ##🗂️ Project Contents
 
@@ -53,47 +53,47 @@ Transactions → payment records for rentals.
 
    - Cheapest rental movies
 
-Movies per rental rate category
+   - Movies per rental rate category
 
-Ratings analysis (most common film ratings)
+   - Ratings analysis (most common film ratings)
 
-Store-wise rental distribution
+   - Store-wise rental distribution
 
-Revenue & Popularity Analysis
+- Revenue & Popularity Analysis
 
-Most rented movies
+   - Most rented movies
 
-Top 10 grossing films
+   - Top 10 grossing films
 
-Highest spending customers
+   - Highest spending customers
 
-Store-wise revenue performance
+   - Store-wise revenue performance
 
-Customer & Loyalty Insights
+- Customer & Loyalty Insights
 
-Frequent renters (eligible for rewards)
+   - Frequent renters (eligible for rewards)
 
-Customers with low rental activity (churn analysis)
+   - Customers with low rental activity (churn analysis)
 
-Movie Catalog Insights
+- Movie Catalog Insights
 
-Movies by category & language
+   - Movies by category & language
 
-Films with “Behind the Scenes” features
+   - Films with “Behind the Scenes” features
 
-Film length vs rental pricing
+   - Film length vs rental pricing
 
-Genre and demographic-based recommendations
+   - Genre and demographic-based recommendations
 
-Advanced Scenarios
+- Advanced Scenarios
 
-Monthly rental trends
+   - Monthly rental trends
 
-Actor/film collaborations
+   - Actor/film collaborations
 
-Inventory availability per store
+   - Inventory availability per store
 
-Combined staff & advisor listings
+   - Combined staff & advisor listings
 
 ## 📊 Use Cases
 
