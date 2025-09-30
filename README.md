@@ -18,13 +18,15 @@
 
 ## 🗂️ Project Contents
 
-Includes:
+# Includes:
 
-Schema Exploration - 
+Schema Exploration 
+
 Viewing tables (MOVIES, MEMBERS, RENTAL, INVENTORY, TRANSACTIONS, etc.)
 
 
-Ad-hoc Queries for Business Needs - 
+Ad-hoc Queries for Business Needs 
+
 Customer lists for marketing campaigns
 
 Cheapest rental movies
@@ -35,7 +37,8 @@ Ratings analysis (most common film ratings)
 
 Store-wise rental distribution
 
-Revenue & Popularity Analysis - 
+Revenue & Popularity Analysis 
+
 Most rented movies
 
 Top 10 grossing films
@@ -44,7 +47,8 @@ Highest spending customers
 
 Store-wise revenue performance
 
-Customer & Loyalty Insights - 
+Customer & Loyalty Insights 
+
 Frequent renters (eligible for rewards)
 
 Customers with low rental activity (churn analysis)
