@@ -119,7 +119,10 @@ This repository answers key **business and analytical questions** using SQL, suc
 
 - **Rental & Revenue Insights**  
   - Most rented movies (popularity analysis)  
-  - Top 10 grossing films by revenue  
+  - Top 10 grossing films by revenue
+
+ <img width="337" height="277" alt="image" src="https://github.com/user-attachments/assets/feee6832-61e9-41a4-9da4-06f2b44f6f7a" />
+
   - Monthly and yearly rental trends  
   - Correlation between rental duration, length, and pricing  
 
