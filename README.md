@@ -1,6 +1,6 @@
 # MAVEN-RENTAL-MOVIES-ANALYSIS
 
-![Cinehub Banner](https://img-c.udemycdn.com/course/240x135/6009766_c8ed_2.jpg)
+![Cinehub Banner](https://t4.ftcdn.net/jpg/16/45/95/99/360_F_1645959900_55xQ2cjCTOlXHaea7pOWceRPnCdKnL27.jpg)
 
 🎬 MAVEN MOVIES RENTAL DATABASE
 
