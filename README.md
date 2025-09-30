@@ -21,12 +21,10 @@
 ### Includes:
 
 #### Schema Exploration -
-
 Viewing tables (MOVIES, MEMBERS, RENTAL, INVENTORY, TRANSACTIONS, etc.)
 
 
 #### Ad-hoc Queries for Business Needs -
-
 Customer lists for marketing campaigns
 
 Cheapest rental movies
