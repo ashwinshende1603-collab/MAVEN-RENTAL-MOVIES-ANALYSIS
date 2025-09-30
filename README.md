@@ -41,10 +41,10 @@ Transactions → payment records for rentals.
 
 ## 📊 Use Cases
 
-SQL Training Project (Joins, Group By, Aggregations, CASE statements)
+- SQL Training Project (Joins, Group By, Aggregations, CASE statements)
 
-Business Analysis (revenue, top movies, customer loyalty)
+- Business Analysis (revenue, top movies, customer loyalty)
 
-Portfolio Demo (complex queries & insights for GitHub)
+- Portfolio Demo (complex queries & insights for GitHub)
 
-Data Science Prep (export queries into Python/R for visualization)
+- Data Science Prep (export queries into Python/R for visualization)
