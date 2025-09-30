@@ -17,3 +17,23 @@
   
    It’s designed as a portfolio project to demonstrate SQL querying, database understanding, and problem-solving skills.
 
+##🗂️ Database Structure
+###Core Tables
+
+Movies → details of films (title, description, release year, rating, rental rates, genre).
+
+Performers → information about actors/actresses.
+
+Movie_performer → links performers with movies (and their roles).
+
+Members → registered customers (with contact info, phone, DOB).
+
+Branches → rental store branches.
+
+Employees → staff working at branches.
+
+Inventory → copies of each movie available (status: AVAILABLE / RENTED / DAMAGED).
+
+Rentals → rental transactions (rental/return dates, linked to members & employees).
+
+Transactions → payment records for rentals.
