@@ -20,37 +20,37 @@
 
 Includes:
 
-Schema Exploration
+*Schema Exploration
 
-Viewing tables (MOVIES, MEMBERS, RENTAL, INVENTORY, TRANSACTIONS, etc.)
+  *Viewing tables (MOVIES, MEMBERS, RENTAL, INVENTORY, TRANSACTIONS, etc.)
 
-Ad-hoc Queries for Business Needs
+*Ad-hoc Queries for Business Needs
 
-Customer lists for marketing campaigns
+  *Customer lists for marketing campaigns
 
-Cheapest rental movies
+  *Cheapest rental movies
 
-Movies per rental rate category
+  *Movies per rental rate category
 
-Ratings analysis (most common film ratings)
+  *Ratings analysis (most common film ratings)
 
-Store-wise rental distribution
+  *Store-wise rental distribution
 
-Revenue & Popularity Analysis
+*Revenue & Popularity Analysis
 
-Most rented movies
+  *Most rented movies
 
-Top 10 grossing films
+  *Top 10 grossing films
 
-Highest spending customers
+  *Highest spending customers
 
-Store-wise revenue performance
+  *Store-wise revenue performance
 
-Customer & Loyalty Insights
+*Customer & Loyalty Insights
 
-Frequent renters (eligible for rewards)
+  *Frequent renters (eligible for rewards)
 
-Customers with low rental activity (churn analysis)
+  *Customers with low rental activity (churn analysis)
 
 Movie Catalog Insights
 
