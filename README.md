@@ -16,7 +16,7 @@
    - Revenue, rentals, customers, and inventory management reports
   
    - It’s designed as a portfolio project to demonstrate SQL querying, database understanding, and problem-solving skills.
-
+<hr/>
 
 ## 🎯 Project Goals  
 
@@ -83,6 +83,11 @@
 - Rentals → rental transactions (rental/return dates, linked to members & employees).
 
 - Transactions → payment records for rentals.
+
+## 🛠️ Tools & Technologies Used  
+
+- **Database**: MySQL (Cineflix schema and SQL queries)  
+- **SQL Concepts**: Joins, Subqueries, Aggregations, Case Statements, Group By, Functions 
 
 ## 📊 Use Cases
 
