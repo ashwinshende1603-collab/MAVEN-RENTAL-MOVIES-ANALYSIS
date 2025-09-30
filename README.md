@@ -17,8 +17,9 @@
   
    It’s designed as a portfolio project to demonstrate SQL querying, database understanding, and problem-solving skills.
 
-##🗂️ Database Structure
-###Core Tables
+## 🗂️ Database Structure
+
+### Core Tables
 
 Movies → details of films (title, description, release year, rating, rental rates, genre).
 
