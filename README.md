@@ -5,14 +5,13 @@
 ## 📌 Overview
 
   This project contains SQL scripts for the Cineflix Movie Rental Database, a case study dataset inspired by real-world movie rental businesses.
-  
   The focus is on:
   
-  Exploratory Data Analysis (EDA) of the schema
+   Exploratory Data Analysis (EDA) of the schema
   
-  Ad-hoc business queries for insights
+   Ad-hoc business queries for insights
   
-  Revenue, rentals, customers, and inventory management reports
+   Revenue, rentals, customers, and inventory management reports
   
-  It’s designed as a portfolio project to demonstrate SQL querying, database understanding, and problem-solving skills.
+   It’s designed as a portfolio project to demonstrate SQL querying, database understanding, and problem-solving skills.
 
