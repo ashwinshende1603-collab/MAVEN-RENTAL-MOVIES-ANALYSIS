@@ -39,9 +39,9 @@
 
 - Transactions → payment records for rentals.
 
-##🗂️ Project Contents
+## 🗂️ Project Contents
 
-###Includes:
+### Includes:
 
 - Schema Exploration
 
