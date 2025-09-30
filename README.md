@@ -18,17 +18,19 @@
 
 🗂️ Project Contents
 
-  Includes:
+Includes:
   
     Schema Exploration : Viewing tables (MOVIES, MEMBERS, RENTAL, INVENTORY, TRANSACTIONS, etc.)
     
-    Ad-hoc Queries for Business Needs : Cheapest rental movies
+    Ad-hoc Queries for Business Needs : *Customer lists for marketing campaigns
 
-Movies per rental rate category
+                                        *Cheapest rental movies
 
-Ratings analysis (most common film ratings)
+                                        *Movies per rental rate category
 
-Store-wise rental distribution
+                                        *Ratings analysis (most common film ratings)
+
+                                        *Store-wise rental distribution
     
     
 
