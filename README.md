@@ -105,7 +105,8 @@ This repository answers key **business and analytical questions** using SQL, suc
 
 - **Customer Insights**  
   - Fetch customer names and emails for marketing campaigns
-    <img width="507" height="447" alt="image" src="https://github.com/user-attachments/assets/6e5df03e-7a62-4931-a201-2c989706cad4" />
+
+<img width="507" height="447" alt="image" src="https://github.com/user-attachments/assets/6e5df03e-7a62-4931-a201-2c989706cad4" />
 
   - Identify the most loyal customers (30+ rentals)  
   - Find customers with fewer than 15 rentals (churn risk)  
