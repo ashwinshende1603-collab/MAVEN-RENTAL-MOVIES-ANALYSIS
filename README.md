@@ -1,42 +1,75 @@
-🎬 MAVEN MOVIES RENTAL DATABASE 🎞
-
+🎞 CINEFLIX Movie Rental – SQL Analysis Project
 
 ![Cinehub Banner](https://mars-images.imgix.net/seobot/filmgrail.com/658a324a896bdc25cc34dfde-5a45cbc3254de9016c096e1d7dafd6d2.png?auto=compress)
 
-📌 OVERVIEW
+📌 Overview
 
-Cinehub is a modernized relational database designed to model a movie rental & streaming platform.
-It extends the classic rental database concept with new features like reviews, subscriptions, promotions, and watchlists, making it a richer, real-world dataset.
+This project contains SQL scripts for the Cineflix Movie Rental Database, a case study dataset inspired by real-world movie rental businesses.
 
-This project is ideal for practicing:
+The focus is on:
 
-SQL (DDL & DML queries)
+Exploratory Data Analysis (EDA) of the schema
 
-Advanced joins & aggregations
+Ad-hoc business queries for insights
 
-Business intelligence reporting
+Revenue, rentals, customers, and inventory management reports
 
-Stored procedures & functions
+It’s designed as a portfolio project to demonstrate SQL querying, database understanding, and problem-solving skills.
 
-Database design for real-world applications
+🗂️ Project Contents
+📄 File: CINEFLIX_SQL_CODE.sql
 
-🗂️ DATABASE STRUCTURE
-Core Tables
+Includes:
 
-movies → details of films (title, description, release year, rating, rental rates, genre).
+Schema Exploration
 
-performers → information about actors/actresses.
+Viewing tables (MOVIES, MEMBERS, RENTAL, INVENTORY, TRANSACTIONS, etc.)
 
-movie_performer → links performers with movies (and their roles).
+Ad-hoc Queries for Business Needs
 
-members → registered customers (with contact info, phone, DOB).
+Customer lists for marketing campaigns
 
-branches → rental store branches.
+Cheapest rental movies
 
-employees → staff working at branches.
+Movies per rental rate category
 
-inventory → copies of each movie available (status: AVAILABLE / RENTED / DAMAGED).
+Ratings analysis (most common film ratings)
 
-rentals → rental transactions (rental/return dates, linked to members & employees).
+Store-wise rental distribution
 
+Revenue & Popularity Analysis
+
+Most rented movies
+
+Top 10 grossing films
+
+Highest spending customers
+
+Store-wise revenue performance
+
+Customer & Loyalty Insights
+
+Frequent renters (eligible for rewards)
+
+Customers with low rental activity (churn analysis)
+
+Movie Catalog Insights
+
+Movies by category & language
+
+Films with “Behind the Scenes” features
+
+Film length vs rental pricing
+
+Genre and demographic-based recommendations
+
+Advanced Scenarios
+
+Monthly rental trends
+
+Actor/film collaborations
+
+Inventory availability per store
+
+Combined staff & advisor listings
 transactions → payment records for rentals.
