@@ -20,12 +20,12 @@
 
 ### Includes:
 
-### Schema Exploration 
+#### Schema Exploration -
 
 Viewing tables (MOVIES, MEMBERS, RENTAL, INVENTORY, TRANSACTIONS, etc.)
 
 
-### Ad-hoc Queries for Business Needs 
+#### Ad-hoc Queries for Business Needs -
 
 Customer lists for marketing campaigns
 
@@ -37,7 +37,7 @@ Ratings analysis (most common film ratings)
 
 Store-wise rental distribution
 
-### Revenue & Popularity Analysis 
+#### Revenue & Popularity Analysis -
 
 Most rented movies
 
@@ -47,13 +47,13 @@ Highest spending customers
 
 Store-wise revenue performance
 
-### Customer & Loyalty Insights 
+#### Customer & Loyalty Insights -
 
 Frequent renters (eligible for rewards)
 
 Customers with low rental activity (churn analysis)
 
-### Movie Catalog Insights
+#### Movie Catalog Insights -
 
 Movies by category & language
 
@@ -63,7 +63,7 @@ Film length vs rental pricing
 
 Genre and demographic-based recommendations
 
-### Advanced Scenarios
+#### Advanced Scenarios -
 
 Monthly rental trends
 
