@@ -38,6 +38,7 @@
 
 - **Portfolio-Ready SQL Project**  
   Showcase SQL skills (**joins, subqueries, aggregations, case statements, functions**) in a structured, professional GitHub repository.
+<hr/>
 
 ## 📊 Insights & Expected Outcomes  
 
@@ -60,7 +61,7 @@
   - Data-driven marketing campaigns (targeted emails)  
   - Inventory optimization (track availability & demand)  
   - Reward programs for loyal customers  
-
+<hr/>
 
 ## 🗂️ Database Structure
 
@@ -83,14 +84,49 @@
 - Rentals → rental transactions (rental/return dates, linked to members & employees).
 
 - Transactions → payment records for rentals.
+<hr/>
 
 ## 🛠️ Tools & Technologies Used  
 
 - **Database**: MySQL (Cineflix schema and SQL queries)  
 - **SQL Concepts**: Joins, Subqueries, Aggregations, Case Statements, Group By, Functions 
+<hr/>
 
 ## 📊 Use Cases
 
 - SQL Training Project (Joins, Group By, Aggregations, CASE statements)
 
 - Business Analysis (revenue, top movies, customer loyalty)
+<hr/>
+
+## 🎬 Movies Rental Data Queries  
+
+This project answers key **business and analytical questions** using SQL, such as:  
+
+- **Customer Insights**  
+  - Fetch customer names and emails for marketing campaigns  
+  - Identify the most loyal customers (30+ rentals)  
+  - Find customers with fewer than 15 rentals (churn risk)  
+
+- **Movie Analysis**  
+  - Count of movies by rental rate  
+  - Ratings distribution (G, PG, R, etc.)  
+  - Movies with “Behind the Scenes” special features  
+  - Categorize movies by length (short, medium, long)  
+
+- **Rental & Revenue Insights**  
+  - Most rented movies (popularity analysis)  
+  - Top 10 grossing films by revenue  
+  - Monthly and yearly rental trends  
+  - Correlation between rental duration, length, and pricing  
+
+- **Store & Employee Performance**  
+  - Store-wise revenue contribution  
+  - Branch inventory availability  
+  - Active vs inactive customers by store  
+  - Employee and advisor listings  
+
+- **Actor & Film Relationships**  
+  - Number of movies per performer  
+  - Actor–film associations (which actors appear in which titles)  
+  - Number of actors per movie title  
