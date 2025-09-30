@@ -108,8 +108,14 @@ This repository answers key **business and analytical questions** using SQL, suc
 
 <img width="507" height="447" alt="image" src="https://github.com/user-attachments/assets/6e5df03e-7a62-4931-a201-2c989706cad4" />
 
-  - Identify the most loyal customers (30+ rentals)  
-  - Find customers with fewer than 15 rentals (churn risk)  
+  - Identify the most spending Member so that we can send him/her rewards or debate points
+
+<img width="460" height="106" alt="Screenshot 2025-10-01 001929" src="https://github.com/user-attachments/assets/c3f37364-9e84-45a9-a73f-a6aae522afd8" />
+
+  - Find customers with fewer than 15 rentals (churn risk)
+
+<img width="282" height="162" alt="image" src="https://github.com/user-attachments/assets/1a57cee2-77f8-4de1-8c1a-95950690c69c" />
+
 
 - **Movie Analysis**  
   - Count of movies by rental rate  
