@@ -1,5 +1,7 @@
 # MAVEN-RENTAL-MOVIES-ANALYSIS
 
+![Cinehub Banner](images/cinehub_banner.png)
+
 🎬 MAVEN MOVIES RENTAL DATABASE
 
 📌 OVERVIEW
