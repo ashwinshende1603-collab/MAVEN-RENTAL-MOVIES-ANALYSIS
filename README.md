@@ -95,12 +95,3 @@
 
    - Combined staff & advisor listings
 
-## 📊 Use Cases
-
-- SQL Training Project (Joins, Group By, Aggregations, CASE statements)
-
-- Business Analysis (revenue, top movies, customer loyalty)
-
-- Portfolio Demo (complex queries & insights for GitHub)
-
-- Data Science Prep (export queries into Python/R for visualization)
