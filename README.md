@@ -159,11 +159,21 @@ This repository answers key **business and analytical questions** using SQL, suc
  <img width="350" height="200" alt="image" src="https://github.com/user-attachments/assets/12d3c27d-216f-4018-ac81-6eb9e1a0764d" />   <img width="247" height="126" alt="image" src="https://github.com/user-attachments/assets/7cb7a076-17b5-4644-965d-a2e989f4f423" />   
 
 
-  - Correlation between rental duration, length, and pricing  
+  - Correlation between rental duration, length, and pricing
+
+<img width="546" height="190" alt="image" src="https://github.com/user-attachments/assets/4bd70a67-c256-46a3-a703-a79e98a8a2b2" />
+
+
 
 - **Store & Employee Performance**  
-  - Store-wise revenue contribution  
-  - Branch inventory availability  
+  - Store-wise revenue contribution
+ 
+<img width="263" height="123" alt="image" src="https://github.com/user-attachments/assets/e2286087-98eb-4543-83bf-47e30a7a242a" />
+
+
+  - Branch inventory availability
+
+
   - Active vs inactive customers by store  
   - Employee and advisor listings  
 
