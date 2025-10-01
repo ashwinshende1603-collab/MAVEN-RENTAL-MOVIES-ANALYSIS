@@ -21,7 +21,7 @@
 ## 🎯 Project Goals  
 
 - **Understand the Database Schema**  
-  Explore the Cineflix relational model, identify key entities (**movies, members, rentals, transactions, inventory**), and study their relationships.  
+  Explore the Maven relational model, identify key entities (**movies, members, rentals, transactions, inventory**), and study their relationships.  
 
 - **Perform Exploratory Data Analysis (EDA)**  
   Write SQL queries to answer real-world business questions related to customers, revenue, inventory, and movie trends.  
@@ -88,7 +88,7 @@
 
 ## 🛠️ Tools & Technologies Used  
 
-- **Database**: MySQL (Cineflix schema and SQL queries)  
+- **Database**: MySQL (Maven schema and SQL queries)  
 - **SQL Concepts**: Joins, Subqueries, Aggregations, Case Statements, Group By, Functions 
 <hr/>
 
