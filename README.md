@@ -92,13 +92,6 @@
 - **SQL Concepts**: Joins, Subqueries, Aggregations, Case Statements, Group By, Functions 
 <hr/>
 
-## 📊 Use Cases
-
-- SQL Training Project (Joins, Group By, Aggregations, CASE statements)
-
-- Business Analysis (revenue, top movies, customer loyalty)
-<hr/>
-
 ## 🎬 Movies Rental Data Queries  
 
 This repository answers key **business and analytical questions** using SQL, such as:  
