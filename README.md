@@ -167,8 +167,12 @@ This repository answers key **business and analytical questions** using SQL, suc
 
   - Active vs inactive customers by store
 
-<img width="523" height="422" alt="image" src="https://github.com/user-attachments/assets/692c9853-c7ca-471b-8cf9-1f07e18b57df" />
+<img width="398" height="125" alt="image" src="https://github.com/user-attachments/assets/44e5b5ab-dc63-4715-8ed2-6542590baa2c" />
 
+
+-- Tag the customers as "ACTIVE" OR "INACTIVE"
+
+<img width="1226" height="483" alt="image" src="https://github.com/user-attachments/assets/004977a0-37c6-4365-ad7e-361ee64abdff" />
 
 
   - Employee and advisor listings  
