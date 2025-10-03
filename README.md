@@ -145,25 +145,25 @@ Follow these steps to set up and run the MavenMovies SQL project:
 
 - Create a new database:
 
-   CREATE DATABASE mavenmovies;
-   USE mavenmovies;
+      CREATE DATABASE mavenmovies;
+      USE mavenmovies;
   
 - Import the schema and data:
 
-  SOURCE create_mavenmovies.sql;
-  SOURCE mavenmovies_data.sql;   -- if dataset file provided
+      SOURCE create_mavenmovies.sql;
+      SOURCE mavenmovies_data.sql;   -- if dataset file provided
 
 3. Run the SQL Queries
 
-Open the file MAVENMOVIES_SQL_CODE.sql.
+ - Open the file MAVENMOVIES_SQL_CODE.sql.
 
-Execute queries to generate insights (top movies, rentals, customer analysis, etc.).
+ - Execute queries to generate insights (top movies, rentals, customer analysis, etc.).
 
 4. Explore & Modify
 
-Customize queries to explore other business questions.
+ - Customize queries to explore other business questions.
 
-Export results into Excel, Python, Tableau, or Power BI for visualization.
+ - Export results into Excel, Python, Tableau, or Power BI for visualization.
 
 <hr/>
 
